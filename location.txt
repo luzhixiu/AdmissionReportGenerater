@@ -1,0 +1,99 @@
+Total Applicants,0,5
+Total Accepts,0,6
+Total Deposits,0,7
+Residential,0,8
+Commuter,0,9
+Housing Contracts,0,10
+Exemption Requests,0,11
+Active Applicants,0,14
+Incomplete,0,17
+Accepted,0,18
+Deposited,0,19
+Total Active,0,20
+Cancelled Applicants,0,22
+Cancelled,0,25
+Denied,0,26
+Withdrawn,0,27
+Deposited WDR,0,28
+Total Cancelled,0,29
+
+_Freshmen,2,1
+_Transfer,5,1
+_Readmits,8,1
+_PartTime,11,1
+_StageTotal,14,1
+
+_Freshmen,2,13
+_Transfer,5,13
+_Readmits,8,13
+_PartTime,11,13
+_StageTotal,14,13
+
+_Freshmen,2,21
+_Transfer,5,21
+_Readmits,8,21
+_PartTime,11,21
+_StageTotal,14,21
+
+
+
+F, 1,2  
+M, 2,2
+Total, 3,2
+F, 4,2
+M, 5,2
+Total, 6,2
+F, 7,2
+M, 8,2
+Total, 9,2
+F, 10,2
+M, 11,2
+Total, 12,2
+F, 13,2
+M, 14,2
+Total, 15,2
+
+
+
+F, 1,14  
+M, 2,14
+Total, 3,14
+F, 4,14
+M, 5,14
+Total, 6,14
+F, 7,14
+M, 8,14
+Total, 9,14
+F, 10,14
+M, 11,14
+Total, 12,14
+F, 13,14
+M, 14,14
+Total, 15,14
+
+
+F, 1,22  
+M, 2,22
+Total, 3,22
+F, 4,22
+M, 5,22
+Total, 6,22
+F, 7,22
+M, 8,22
+Total, 9,22
+F, 10,22
+M, 11,22
+Total, 12,22
+F, 13,22
+M, 14,22
+Total, 15,22
+
+
+
+
+
+
+
+
+
+ 
